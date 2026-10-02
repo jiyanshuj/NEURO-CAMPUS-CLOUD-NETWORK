@@ -1,0 +1,27 @@
+[submodule "Admin-panel"]
+	path = Admin-panel
+	url = https://github.com/jiyanshuj/Major-project.git
+
+[submodule "AutoSlideX"]
+	path = AutoSlideX
+	url = https://github.com/jiyanshuj/AutoSlideX.git
+
+[submodule "NEURO_CAMPUS"]
+	path = NEURO_CAMPUS
+	url = https://github.com/Yug-Bothra/NEURO_CAMPUS.git
+
+[submodule "PaperVista"]
+	path = PaperVista
+	url = https://github.com/jiyanshuj/PaperVista.git
+
+[submodule "Resume Gen"]
+	path = Resume Gen
+	url = https://github.com/jiyanshuj/Resume-Gen.git
+
+[submodule "Smart Career Guidance System"]
+	path = Smart Career Guidance System
+	url = https://github.com/jiyanshuj/Smart-Career-Guidance-System.git
+
+[submodule "teacher-panel"]
+	path = teacher-panel
+	url = https://github.com/jiyanshuj/teacher-panel.git
