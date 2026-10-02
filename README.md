@@ -12,17 +12,19 @@
 
 ## 📋 Table of Contents
 
-- [Overview](#-overview)
-- [System Architecture](#-system-architecture)
-- [Complete Feature Set](#-complete-feature-set)
-- [Projects Portfolio](#-projects-portfolio)
-- [Live Demos & Credentials](#-live-demos--credentials)
-- [Technology Stack](#-technology-stack)
-- [Database Schema](#-database-schema)
-- [Getting Started](#-getting-started)
-- [Screenshots](#-screenshots)
+- [Overview](#overview)
+- [System Architecture](#system-architecture)
+- [Complete Feature Set](#complete-feature-set)
+- [Projects Portfolio](#projects-portfolio)
+- [Live Demos & Credentials](#live-demos--credentials)
+- [Technology Stack](#technology-stack)
+- [Database Schema](#database-schema)
+- [Getting Started](#getting-started)
+- [Screenshots](#screenshots)
 
 ---
+
+<a id="overview"></a>
 
 ## 🎯 Overview
 
@@ -50,6 +52,8 @@ An integrated **Student Campus Cloud Network** featuring a unified ecosystem wit
 - **50+ Features** - Comprehensive educational ecosystem
 
 ---
+
+<a id="system-architecture"></a>
 
 ## 🏗️ System Architecture
 
@@ -90,6 +94,8 @@ An integrated **Student Campus Cloud Network** featuring a unified ecosystem wit
 ```
 
 ---
+
+<a id="complete-feature-set"></a>
 
 ## 🎯 Complete Feature Set
 
@@ -296,6 +302,8 @@ An integrated **Student Campus Cloud Network** featuring a unified ecosystem wit
 - ✅ **Complete Public Access** - No registration required
 
 ---
+
+<a id="projects-portfolio"></a>
 
 ## 📦 Projects Portfolio
 
@@ -939,6 +947,8 @@ scikit-learn>=1.0.0
 
 ---
 
+<a id="live-demos--credentials"></a>
+
 ## 🌐 Live Demos & Credentials
 
 ### Live Applications
@@ -1029,6 +1039,8 @@ Email: [Use your own email]
 
 ---
 
+<a id="technology-stack"></a>
+
 ## 🛠️ Technology Stack
 
 ### Frontend Ecosystem
@@ -1092,6 +1104,8 @@ Email: [Use your own email]
 | **JWT** | Token-based authentication |
 
 ---
+
+<a id="database-schema"></a>
 
 ## 📊 Database Schema
 
@@ -1376,6 +1390,8 @@ Email: [Use your own email]
 
 ---
 
+<a id="getting-started"></a>
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -1530,6 +1546,8 @@ vercel --prod
 4. Set up custom domain (optional)
 
 ---
+
+<a id="screenshots"></a>
 
 ## 📸 System Screenshots
 
@@ -1949,7 +1967,7 @@ Special thanks to all who made this project possible:
 - **Supabase Team** - Excellent database infrastructure and authentication
 - **Cloudinary** - Reliable media storage and CDN services
 - **Vercel** - Seamless hosting and deployment platform
-- **Netlify** - Static site hosting services
+- **Netlify** - Static hosting services
 - **Clerk** - Authentication and user management
 
 ### Open Source Community
