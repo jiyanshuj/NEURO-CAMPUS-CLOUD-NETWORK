@@ -1668,20 +1668,20 @@ vercel --prod
 
 ### 📄 NextStep CV - Resume Generator
 
-| Hero Section | Basic Information |
+| Hero Section | Resume Templates |
 |-------------|------------------|
-| ![Hero Section](https://github.com/jiyanshuj/Resume-Gen/raw/main/images/01-hero-section.png) | ![Basic Information](https://github.com/jiyanshuj/Resume-Gen/raw/main/images/02-resume-templates.png) |
-| *Landing page with dynamic gradient* | *Resume form - Basic information* |
+| ![Hero Section](https://github.com/jiyanshuj/Resume-Gen/raw/main/images/01-hero-section.png) | ![Resume Templates](https://github.com/jiyanshuj/Resume-Gen/raw/main/images/02-resume-templates.png) |
+| *Landing page with dynamic gradient* | *Template selection preview* |
 
-| Projects Section | Education Section |
+| Resume Preview | Builder Form |
 |-----------------|------------------|
-| ![Projects Section](https://github.com/jiyanshuj/Resume-Gen/raw/main/images/03-preview-section.png) | ![Education Section](https://github.com/jiyanshuj/Resume-Gen/raw/main/images/04-form-section.png) |
-| *Projects with tech stacks* | *Education details* |
+| ![Resume Preview](https://github.com/jiyanshuj/Resume-Gen/raw/main/images/03-preview-section.png) | ![Builder Form](https://github.com/jiyanshuj/Resume-Gen/raw/main/images/04-form-section.png) |
+| *Live resume preview* | *Resume builder form* |
 
-| Work Experience | Skills Section |
+| Download | Final Resume |
 |----------------|---------------|
-| ![Work Experience](https://github.com/jiyanshuj/Resume-Gen/raw/main/images/05-Download.png) | ![Skills Section](https://github.com/jiyanshuj/Resume-Gen/raw/main/images/resume.png) |
-| *Work experience and certifications* | *Skills categorization* |
+| ![Download](https://github.com/jiyanshuj/Resume-Gen/raw/main/images/05-Download.png) | ![Final Resume](https://github.com/jiyanshuj/Resume-Gen/raw/main/images/resume.png) |
+| *Download / PDF export preview* | *Final resume preview* |
 
 ---
 
