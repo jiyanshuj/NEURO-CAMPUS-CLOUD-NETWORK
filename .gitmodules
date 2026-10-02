@@ -8,7 +8,7 @@
 
 [submodule "NEURO_CAMPUS"]
 	path = NEURO_CAMPUS
-	url = https://github.com/Yug-Bothra/NEURO_CAMPUS.git
+	url = https://github.com/jiyanshuj/NEURO_CAMPUS.git
 
 [submodule "PaperVista"]
 	path = PaperVista
