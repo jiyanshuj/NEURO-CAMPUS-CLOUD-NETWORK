@@ -1652,17 +1652,17 @@ vercel --prod
 
 | Hero Section | Basic Information |
 |-------------|------------------|
-| ![Hero Section](https://github.com/jiyanshuj/Resume-Gen/blob/main/images/01-hero-section.png) | ![Basic Information](https://github.com/jiyanshuj/Resume-Gen/blob/main/images/02-resume-form-basic-info.png) |
+| ![Hero Section](https://github.com/jiyanshuj/Resume-Gen/raw/main/images/01-hero-section.png) | ![Basic Information](https://github.com/jiyanshuj/Resume-Gen/raw/main/images/02-resume-templates.png) |
 | *Landing page with dynamic gradient* | *Resume form - Basic information* |
 
 | Projects Section | Education Section |
 |-----------------|------------------|
-| ![Projects Section](https://github.com/jiyanshuj/Resume-Gen/blob/main/images/03-projects-section.png) | ![Education Section](https://github.com/jiyanshuj/Resume-Gen/blob/main/images/04-education-section.png) |
+| ![Projects Section](https://github.com/jiyanshuj/Resume-Gen/raw/main/images/03-preview-section.png) | ![Education Section](https://github.com/jiyanshuj/Resume-Gen/raw/main/images/04-form-section.png) |
 | *Projects with tech stacks* | *Education details* |
 
 | Work Experience | Skills Section |
 |----------------|---------------|
-| ![Work Experience](https://github.com/jiyanshuj/Resume-Gen/blob/main/images/05-work-experience-certifications.png) | ![Skills Section](https://github.com/jiyanshuj/Resume-Gen/blob/main/images/06-skills-section.png) |
+| ![Work Experience](https://github.com/jiyanshuj/Resume-Gen/raw/main/images/05-Download.png) | ![Skills Section](https://github.com/jiyanshuj/Resume-Gen/raw/main/images/resume.png) |
 | *Work experience and certifications* | *Skills categorization* |
 
 ---
